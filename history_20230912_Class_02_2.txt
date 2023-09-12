@@ -1,0 +1,64 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  chrome
+    4  history
+    5  firefox
+    6  ls
+    7  ls -l
+    8  ls -lt
+    9  mkdir dir_1
+   10  mkdir dir_2
+   11  ls -lt
+   12  echo -e "1234\t5678" > ./dir_1/text_1.txt
+   13  ls -lt dir_1
+   14  ls -alt dir_1
+   15  cat ./dir_1/text_1.txt
+   16  hexdump -C ./dir_1/text_1.txt
+   17  touch ./dir_1/text_1.txt
+   18  man touch
+   19  cat ./dir_1/text_1.txt
+   20  mv ./dir_1/text_1.txt ./dir_2/text_2.txt
+   21  ls -lt dir_2
+   22  cat ./dir_2/text_2.txt
+   23  mv ./dir_2/text_*.txt ./dir_1/text_*.txt
+   24  ls dir_2
+   25  ls dir_1
+   26  mv ./dir_1/text_*.txt ./dir_2/text_2.txt
+   27  ls dir_2
+   28  touch ./dir_2/text_1.txt
+   29  ls dir_1
+   30  ls dir_2
+   31  mv ./dir_2/text_*.txt ./dir_1
+   32  ls dir_1
+   33  ls dir_2
+   34  cd ./dir_1
+   35  ls
+   36  mv ./text_*.txt ../dir_2
+   37  ls -lt 
+   38  ls -lt ../dir_2
+   39  man hexdump
+   40  pwd
+   41  mkdir ../dir_2/dir_2_1
+   42  ls -lt ../dir_2
+   43  cd ../dir_2_1/dir_2_1
+   44  cd ../dir_2/dir_2_1
+   45  pwd
+   46  tree
+   47  cd
+   48  whereis whoami
+   49  ls -l /usr/bin/whoami
+   50  whereis pwd
+   51  echo $PATH
+   52  nano mans_pirmais_shell_skrtipts.sh
+   53  ls -lt
+   54  chmod 754 mans_pirmais_shell_skripts.sh
+   55  chmod 754 mans_pirmais_shell_skrtipts.sh
+   56  ls -lt
+   57  ls
+   58  /home/user/mans_pirmais_shell_skrtipts.sh
+   59  ~/ABC# cat c.txt
+   60  echo $PATH
+   61  PATH=$PATH:~
+   62  echo $PATH
+   63  history
+   64  history > history_20230912_Class_02_2.txt
