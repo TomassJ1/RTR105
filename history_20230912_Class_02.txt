@@ -1,0 +1,105 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  who
+    5  pwd
+    6  ls
+    7  man ls
+    8  ls -l
+    9  ls -l -t
+   10  ls -a
+   11  ls -al
+   12  pwd
+   13  ls
+   14  ls Desktop
+   15  ls -al Desktop
+   16  pwd
+   17  ls /home
+   18  ls
+   19  tree
+   20  cd Music/
+   21  clear
+   22  pwd
+   23  ls -la
+   24  cd .
+   25  pwd
+   26  cd ..
+   27  pwd
+   28  cd ..
+   29  ls -la
+   30  cd ..
+   31  ls
+   32  ls -la
+   33  cd ..
+   34  pwd
+   35  ls
+   36  cd root
+   37  pwd
+   38  cd ~
+   39  cd ..
+   40  cd ./home/
+   41  cd ./user/
+   42  cd /
+   43  cd /home/user/
+   44  cd /
+   45  cd ~
+   46  cd ~/Documents/
+   47  cd /
+   48  cd
+   49  pwd
+   50  clear
+   51  ls -l
+   52  mkdir ABC
+   53  ls -lt
+   54  ls -lt ABC
+   55  ls -lta ABC/
+   56  cd ./ABC/
+   57  ls -a
+   58  cd
+   59  rmdir ABC
+   60  ls -lt
+   61  cd /
+   62  cd
+   63  ls -lt
+   64  touch abc.txt
+   65  ls -lt
+   66  echo La-la-la!
+   67  echo 12345 > text_1.txt
+   68  ls -lt
+   69  cat text_1.txt
+   70  hexdump -C
+   71  echo 6789 > text_1.txt
+   72  cat text_1.txt
+   73  echo 1234 > text_1.txt
+   74  echo 6789 >> text_1.txt
+   75  ls -la
+   76  ls -lt
+   77  cat text_1.txt
+   78  hexdump -C text_1.txt
+   79  man echo
+   80  echo -e "12345\n6789
+
+   81  echo -e "12345\n6789"
+   82  echo -e "12345\n\t6789"
+   83  echo -e "12345\t6789"
+   84  echo -e "12345\r6789"
+   85  echo -e "12345\r6789" >text_2.txt
+   86  cat text_2.txt
+   87  hexdump -C text_2.txt
+   88  ls -lt
+   89  mkdir CDE
+   90  cp text_1.txt CDE/
+   91  ls ./CDE/
+   92  ls
+   93  mv CDE/text_1.txt CDE/text_3.txt
+   94  ls CDE
+   95  ls -lt
+   96  clear
+   97  ls -lt
+   98  rm text_*.txt
+   99  ls -lt
+  100  mv abx.txt ./ abc.dat
+  101  mv abx.txt  abc.dat
+  102  mv abc.txt abc.dat
+  103  history
+  104  history > history_20230912_Class_02.txt
