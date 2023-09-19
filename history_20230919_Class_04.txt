@@ -1,0 +1,34 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  whoami
+    5  git --version
+    6  man git
+    7  git clone https://github.com/TomassJ1/RTR105
+    8  ls -lt
+    9  ls -lt 
+   10  ls -lt | grep RTR
+   11  rm RTR105
+   12  rm -r RTR105
+   13  ls
+   14  git clone https://github.com/TomassJ1/RTR105
+   15  rm -rf RTR105
+   16  ls -lt
+   17  git clone https://github.com/TomassJ1/RTR105
+   18  cd RTR105
+   19  ls
+   20  ls -t
+   21  ls -l
+   22  ls -la
+   23  cd .git
+   24  ls -l
+   25  cat config
+   26  ls -lt
+   27  cat index
+   28  hexdump -C index
+   29  ls -lt
+   30  ../
+   31  cd ../
+   32  pwd
+   33  history
+   34  history > history_20230919_Class_04.txt
