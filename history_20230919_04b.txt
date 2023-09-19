@@ -1,0 +1,70 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  whoami
+    5  git --version
+    6  man git
+    7  git clone https://github.com/TomassJ1/RTR105
+    8  ls -lt
+    9  ls -lt 
+   10  ls -lt | grep RTR
+   11  rm RTR105
+   12  rm -r RTR105
+   13  ls
+   14  git clone https://github.com/TomassJ1/RTR105
+   15  rm -rf RTR105
+   16  ls -lt
+   17  git clone https://github.com/TomassJ1/RTR105
+   18  cd RTR105
+   19  ls
+   20  ls -t
+   21  ls -l
+   22  ls -la
+   23  cd .git
+   24  ls -l
+   25  cat config
+   26  ls -lt
+   27  cat index
+   28  hexdump -C index
+   29  ls -lt
+   30  ../
+   31  cd ../
+   32  pwd
+   33  history
+   34  history > history_20230919_Class_04.txt
+   35  ls -lt
+   36  nano 
+   37  nano git-upload
+   38  whereis bash
+   39  ls -l /bin/pwd
+   40  cat /bin/pwd
+   41  whereis pwd
+   42  ls -l /bin/pwd
+   43  whereis bash
+   44  nano git-upload
+   45  pwd
+   46  ls -lt
+   47  cat git-upload
+   48  echo $PATH
+   49  ls -lt
+   50  chmod 754 git upload
+   51  chmod 754 git-upload
+   52  ls -lt
+   53  git-upload
+   54  echo $PATH
+   55  PATH=$PATH:~/RTR105/
+   56  echo $PARH
+   57  echo $PATH
+   58  git-upload
+   59  ls -lt
+   60  cat git-upload
+   61  man git add
+   62  ls -lt
+   63  cat git-upload
+   64  ls -lta
+   65  git-upload
+   66  nano git-upload 
+   67  git-upload
+   68  cat git-upload
+   69  ls -lt
+   70  history > history_20230919_Class_04a.txt
