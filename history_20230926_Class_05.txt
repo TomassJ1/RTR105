@@ -1,0 +1,88 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github/TomassJ1/RTR105
+    4  ls -lt
+    5  git clone https://github.com/TomassJ1/RTR105
+    6  ls -lt
+    7  cd RTR105
+    8  ls -lt
+    9  mkdir Class_5
+   10  ls -lt
+   11  cd ./Class_05
+   12  cd Class_5
+   13  nano first.c
+   14  ls -lt
+   15  gcc first.c
+   16  echo $?
+   17  ls -lt
+   18  ./a.out
+   19  echo $?
+   20  ls -lt
+   21  gcc first.c
+   22  ls -lt
+   23  cat first.c
+   24  cat a.out
+   25  ls -lt
+   26  man gcc
+   27  gcc first.c -o first.out
+   28  ls -lt
+   29  rm *.out
+   30  ls -lt
+   31  history
+   32  nano first.c
+   33  gcc first.c -o first.out
+   34  nano first.c
+   35  gcc first.c -o first.out
+   36  nano first.c
+   37  gcc first.c -o first.out
+   38  nano first.c
+   39  gcc first.c -o first.out
+   40  ./first.out
+   41  echo $?
+   42  ls -lt
+   43  nano first.c
+   44  gcc first.c -o first.out
+   45  ./first.out
+   46  echo $?
+   47  ls -lt
+   48  cat first.c
+   49  nano first.c
+   50  ls -lt
+   51  gcc first.c -o first_with_comments.out
+   52  ls -lt
+   53  diff first.out first_with_comments.out
+   54  cat first.c
+   55  cp first.c second.c
+   56  ls -lt
+   57  nano second.c
+   58  gcc second.c -o second.out
+   59  ls -lt
+   60  nano second.c
+   61  gcc second.c -o second.out
+   62  ls -lt
+   63  ./second.out
+   64  nano second.c
+   65  gcc second.c -o second.out
+   66  ./second.out
+   67  nano second.c
+   68  ./second.out
+   69  rm *.out
+   70  ls -lt
+   71  man gcc
+   72  gcc -Wall -save-temps second.c -o second.out
+   73  ls-lt
+   74  ls -lt
+   75  cat second.i
+   76  cat second.s
+   77  cat second.o
+   78  ls -lt
+   79  cd ../
+   80  cd ..
+   81  ls -lt
+   82  cd ./RTR105
+   83  ls -lt
+   84  touch .gitignore
+   85  ls -lta
+   86  nano .gitignore
+   87  ls -lta
+   88  history > history_20230926_Class_05.txt
