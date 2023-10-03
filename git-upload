@@ -1,7 +1,0 @@
-#!/bin/bash
-git add .
-git config --global user.name TomassJ1
-git config --global user.email tomasssjevdokimovs@inbox.lv
-git commit -m "Class_07"
-git push origin main
-
