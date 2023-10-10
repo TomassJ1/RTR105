@@ -1,0 +1,95 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone github.com/TomassJ1/RTR105
+    4  git clone https://github.com/TomassJ1/RTR105
+    5  ls-lt
+    6  ls -lt
+    7  cd ./RTR105
+    8  ls -lt
+    9  mkdir ./Class_08
+   10  cd ./Class_08
+   11  nano variables.c
+   12  gcc variables.c -0 variables.out
+   13  gcc variables.c -o variables.out
+   14  nano variables.c
+   15  gcc variables.c -o variables.out
+   16  ./variables.out
+   17  nano variables.c
+   18  gcc variables.c -o variables.out
+   19  nano variables.c
+   20  gcc variables.c -o variables.out
+   21  ./variables.out
+   22  nano variables.c
+   23  gcc variables.c -o variables.out
+   24  ./variables.out
+   25  nano variables.c
+   26  gcc variables.c -o variables.out
+   27  ./variables.out
+   28  nano variables.c
+   29  gcc variables.c -o variables.out
+   30  ./variables.out
+   31  nano variables.c
+   32  gcc variables.c -o variables.out
+   33  nano variables.c
+   34  gcc variables.c -o variables.out
+   35  nano variables.c
+   36  gcc variables.c -o variables.out
+   37  ./variables.out
+   38  nano variables.c
+   39  gcc variables.c -o variables.out
+   40  ./variables.out
+   41  nano variables.c
+   42  gcc variables.c -o variables.out
+   43  ./variables.out
+   44  nano variables.c
+   45  gcc variables.c -o variables.out
+   46  ./variables.out
+   47  nano variables.c
+   48  gcc variables.c -o variables.out
+   49  ./variables.out
+   50  nano variables.c
+   51  gcc variables.c -o variables.out
+   52  nano variables.c
+   53  gcc variables.c -o variables.out
+   54  ./variables.out
+   55  nano variables.c
+   56  ./variables.out
+   57  nano variables.c
+   58  gcc variables.c -o variables.out
+   59  nano variables.c
+   60  gcc variables.c -o variables.out
+   61  nano variables.c
+   62  gcc variables.c -o variables.out
+   63  nano variables.c
+   64  gcc variables.c -o variables.out
+   65  nano variables.c
+   66  gcc variables.c -o variables.out
+   67  nano variables.c
+   68  gcc variables.c -o variables.out
+   69  nano variables.c
+   70  gcc variables.c -o variables.out
+   71  ./variables.out
+   72  nano variables.c
+   73  gcc variables.c -o variables.out
+   74  ./variables.out
+   75  nano variables.c
+   76  gcc variables.c -o variables.out
+   77  nano variables.c
+   78  gcc variables.c -o variables.out
+   79  nano variables.c
+   80  gcc variables.c -o variables.out
+   81  ./variables.out
+   82  nano variables.c
+   83  gcc variables.c -o variables.out
+   84  ./variables.out
+   85  ls -lt
+   86  ../
+   87  cd ../
+   88  ls -lt
+   89  nano git-upload
+   90  ./git-upload
+   91  chmod 766 git-upload
+   92  ls -lt
+   93  git-upload
+   94  ./git-upload
+   95  history >>history_20231010_Class_08_09
