@@ -2,6 +2,6 @@
 git add .
 git config --global user.name TomassJ1
 git config --global user.email tomasssjevdokimovs@inbox.lv
-git commit -m "Class_13"
+git commit -m "pu1_pu2"
 git push origin main
 
