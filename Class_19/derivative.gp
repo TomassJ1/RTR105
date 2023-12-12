@@ -4,12 +4,12 @@ set output 'derivative.png'
 
 set grid
 
-#plot [0:2*pi] sin(x)
-#replot [0:2*pi] cos(x) title "cos(x)"
+#plot [-5:1] (1+x)*exp tile "f(x)"
+#replot [-5:1] exp(x)*(2+x) title "f'(x)"
 #replot "derivative.dat" every ::1 using 1:2 with lines title "sin(x) (from file)",
 #replot "derivative.dat" every ::1 using 1:3 with lines title "sin'(x) (finite difference)"
 
-plot [0:2*pi] sin(x), \
-              cos(x) title "cos(x)", \
+plot [-5:1] (1+x)*exp(x) title "f(x)", \
+              (2+x)*exp(x) title "f'(x)", \
               "derivative.dat" every ::1 using 1:2 with lines title "sin(x) (from file)", \
               "derivative.dat" every ::1 using 1:3 with lines title "sin'(x) (finite difference)"
