@@ -24,7 +24,7 @@ Funkcijas summas izteiksmes un rekurences reizinātāja ASCII zīmējums.
 
 Funkcijas summas grafiks parāda, ka ar katru iterāciju funkcijas summa vairāk pietuvinās funkcijas izteikmes vērtībai.
 
-![Funkcijas rafiks](https://github.com/TomassJ1/RTR105/blob/main/darbi/1ld_series/1ld_grafiks.png)
+![Funkcijas grafiks](https://github.com/TomassJ1/RTR105/blob/main/darbi/1ld_series/1ld_grafiks.png)
 
 ## Linki
 

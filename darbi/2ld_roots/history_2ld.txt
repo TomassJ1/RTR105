@@ -1,0 +1,45 @@
+cd ../darbi/2ls_roots
+ 1103  cd ../darbi/2ld_roots
+ 1104  ./a.out
+ 1105  gcc 2ld_roots.c -lm
+ 1106  ./a.out
+ 1107  gcc 2ld_roots.c -lm
+ 1108  ./a.out
+ 1109  gcc 2ld_roots.c -lm
+ 1110  ./a.out
+ 1111  gcc 2ld_roots.c -lm
+ 1112  ./a.out
+ 1113  gcc 2ld_roots.c -lm
+ 1114  ./a.out
+ 1115  gcc 2ld_roots.c -lm
+ 1116  ./a.out
+ 1117  gcc 2ld_roots.c -lm
+ 1118  ./a.out
+ 1119  ./2ld_grafiks.gp
+ 1120  chmo 766 2ld_grafiks.gp
+ 1121  chmod 766 2ld_grafiks.gp
+ 1122  ./2ld_grafiks.gp
+ 1123  gcc 2ld_roots.c -lm
+ 1124  ./a.out
+ 1125  gcc 2ld_roots.c -lm
+ 1126  ./a.out
+ 1127  gcc 2ld_roots.c -lm
+ 1128  ./a.out
+ 1129  gcc 2ld_roots.c -lm
+ 1130  ./a.out
+ 1131  gcc 2ld_roots.c -lm
+ 1132  ./a.out
+ 1133  gcc 2ld_roots.c -lm
+ 1134  ./a.out
+ 1135  gcc 2ld_roots.c -lm
+ 1136  ./a.out
+ 1137  gcc 2ld_roots.c -lm
+ 1138  ./a.out
+ 1139  ./2ld_grafiks.gp
+ 1140  gcc 2ld_roots.c -lm
+ 1141  ./2ld_grafiks.gp
+ 1142  ./a.out
+ 1143  ./2ld_grafiks.gp
+ 1144  gcc 2ld_roots.c -lm
+ 1145  ./a.out
+ 1146  ./2ld_grafiks.gp

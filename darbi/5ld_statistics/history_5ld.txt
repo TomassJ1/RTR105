@@ -1,0 +1,332 @@
+cd ../5ld_statistics
+ 1249  gcc 5ld_statistics.c
+ 1250  ./a.out
+ 1251  gcc 5ld_statistics.c
+ 1252  ./a.out
+ 1253  gcc 5ld_statistics.c
+ 1254  ./a.out
+ 1255  gcc 5ld_statistics.c
+ 1256  ./a.out
+ 1257  gcc 5ld_statistics.c
+ 1258  ./a.out
+ 1259  gcc 5ld_statistics.c
+ 1260  ./a.out
+ 1261  gcc 5ld_statistics.c
+ 1262  ./a.out
+ 1263  gcc 5ld_statistics.c
+ 1264  ./a.out
+ 1265  gcc 5ld_statistics.c
+ 1266  ./a.out
+  cd ./darbi/5ld_statistics
+ 1302  gcc 5ld_statistics.c -lm
+ 1303  ./a.out
+ 1304  gcc 5ld_statistics.c -lm
+ 1305  ./a.out
+ 1306  gcc 5ld_statistics.c -lm
+ 1307  ./a.out
+ 1308  gcc 5ld_statistics.c -lm
+ 1309  ./a.out
+ 1310  gcc 5ld_statistics.c -lm
+ 1311  ./a.out
+ 1312  gcc 5ld_statistics.c -lm
+ 1313  ./a.out
+ 1314  gcc 5ld_statistics.c -lm
+ 1315  ./a.out
+ 1316  gcc 5ld_statistics.c -lm
+ 1317  ./a.out
+ 1318  gcc 5ld_statistics.c -lm
+ 1319  ./a.out
+ 1320  history
+ 1321  cd ./5ld_statistics
+ 1322  cd ./darbi/5ld_statistics
+ 1323  gcc 5ld_statistics.c
+ 1324  ./a.out
+ 1325  gcc 5ld_statistics.c
+ 1326  ./a.out
+ 1327  gcc 5ld_statistics.c
+ 1328  ./a.out
+ 1329  gcc 5ld_statistics.c
+ 1330  ./a.out
+ 1331  gcc 5ld_statistics.c
+ 1332  ./a.out
+ 1333  gcc 5ld_statistics.c
+ 1334  ./a.out
+ 1335  gcc 5ld_statistics.c
+ 1336  ./a.out
+ 1337  gcc 5ld_statistics.c
+ 1338  ./a.out
+ 1339  gcc 5ld_statistics.c
+ 1340  ./a.out
+ 1341  gcc 5ld_statistics.c
+ 1342  ./a.out
+ 1343  gcc 5ld_statistics.c
+ 1344  ./a.out
+ 1345  gcc 5ld_statistics.c
+ 1346  ./a.out
+ 1347  gcc 5ld_statistics.c
+ 1348  ./a.out
+ 1349  gcc 5ld_statistics.c
+ 1350  ./a.out
+ 1351  gcc 5ld_statistics.c
+ 1352  ./a.out
+ 1353  gcc 5ld_statistics.c
+ 1354  ./a.out
+ 1355  gcc 5ld_statistics.c
+ 1356  ./a.out
+ 1357  gcc 5ld_statistics.c
+ 1358  ./a.out
+ 1359  gcc 5ld_statistics.c
+ 1360  ./a.out
+ 1361  gcc 5ld_statistics.c
+ 1362  ./a.out
+ 1363  gcc 5ld_statistics.c
+ 1364  ./a.out
+ 1365  gcc 5ld_statistics.c
+ 1366  ./a.out
+ 1367  gcc 5ld_statistics.c
+ 1368  ./a.out
+ 1369  gcc 5ld_statistics.c
+ 1370  ./a.out
+ 1371  cd ./darbi/5ld_statistics
+ 1372  gcc 5ld_statistics.c
+ 1373  ./a.out
+ 1374  gcc 5ld_statistics.c
+ 1375  ./a.out
+ 1376  gcc 5ld_statistics.c
+ 1377  ./a.out
+ 1378  gcc 5ld_statistics.c
+ 1379  ./a.out
+ 1380  gcc 5ld_statistics.c
+ 1381  ./a.out
+ 1382  gcc 5ld_statistics.c
+ 1383  ./a.out
+ 1384  gcc 5ld_statistics.c
+ 1385  ./a.out
+ 1386  gcc 5ld_statistics.c
+ 1387  ./a.out
+ 1388  gcc 5ld_statistics.c
+ 1389  ./a.out
+ 1390  gcc 5ld_statistics.c
+ 1391  ./a.out
+ 1392  gcc 5ld_statistics.c
+ 1393  ./a.out
+ 1394  gcc 5ld_statistics.c
+ 1395  ./a.out
+ 1396  gcc 5ld_statistics.c
+ 1397  ./a.out
+ 1398  gcc 5ld_statistics.c
+ 1399  ./a.out
+ 1400  cd ./darbi/5ld_statistics.c
+ 1401  cd ./darbi/5ld_statistics
+ 1402  gcc 5ld_statistics.c
+ cd ./darbi/5ld_statistics
+ 1405  gcc 5ld_statistics
+ 1406  gcc 5ld_statistics.c
+ 1407  ./a.out
+ 1408  gcc 5ld_statistics.c
+ 1409  ./a.out
+ 1410  gcc 5ld_statistics.c
+ 1411  ./a.out
+ 1412  gcc 5ld_statistics.c
+ 1413  ./a.out
+ 1414  gcc 5ld_statistics.c
+ 1415  ./a.out
+ 1416  gcc 5ld_statistics.c
+ 1417  ./a.out
+ 1418  gcc 5ld_statistics.c
+ 1419  ./a.out
+ 1420  gcc 5ld_statistics.c
+ 1421  ./a.out
+ 1422  gcc 5ld_statistics.c
+ 1423  ./a.out
+ 1424  gcc 5ld_statistics.c
+ 1425  ./a.out
+ 1426  gcc 5ld_statistics.c
+ 1427  ./a.out
+ 1428  gcc 5ld_statistics.c
+ 1429  ./a.out
+ 1430  gcc 5ld_statistics.c
+ 1431  ./a.out
+ 1432  gcc 5ld_statistics.c
+ 1433  ./a.out
+ 1434  gcc 5ld_statistics.c
+ 1435  ./a.out
+ 1436  gcc 5ld_statistics.c
+ 1437  ./a.out
+ 1438  gcc 5ld_statistics.c
+ 1439  ./a.out
+ 1440  gcc 5ld_statistics.c
+ 1441  ./a.out
+ 1442  gcc 5ld_statistics.c
+ 1443  ./a.out
+ 1444  gcc 5ld_statistics.c
+ 1445  ./a.out
+ 1446  gcc 5ld_statistics.c
+ 1447  ./a.out
+ 1448  gcc 5ld_statistics.c
+ 1449  ./a.out
+ 1450  gcc 5ld_statistics.c
+ 1451  ./a.out
+ 1452  gcc 5ld_statistics.c
+ 1453  ./a.out
+ 1454  gcc 5ld_statistics.c
+ 1455  ./a.out
+ 1456  gcc 5ld_statistics.c
+ 1457  ./a.out
+ 1458  gcc 5ld_statistics.c
+ 1459  ./a.out
+ 1460  gcc 5ld_statistics.c
+ 1461  ./a.out
+ 1462  gcc 5ld_statistics.c
+ 1463  ./a.out
+ 1464  gcc 5ld_statistics.c
+ 1465  ./a.out
+ 1466  gcc 5ld_statistics.c
+ 1467  ./a.out
+ 1468  gcc 5ld_statistics.c
+ 1469  ./a.out
+ 1470  gcc 5ld_statistics.c
+ 1471  ./a.out
+ 1472  gcc 5ld_statistics.c
+ 1473  ./a.out
+ 1474  gcc 5ld_statistics.c
+ 1475  ./a.out
+ 1476  gcc 5ld_statistics.c
+ 1477  ./a.out
+ 1478  gcc 5ld_statistics.c
+ 1479  ./a.out
+ 1480  gcc 5ld_statistics.c
+ 1481  ./a.out
+ 1482  gcc 5ld_statistics.c
+ 1483  ./a.out
+ 1484  gcc 5ld_statistics.c
+ 1485  ./a.out
+ 1486  gcc 5ld_statistics.c
+ 1487  ./a.out
+ 1488  gcc 5ld_statistics.c
+ 1489  ./a.out
+ 1490  gcc 5ld_statistics.c
+ 1491  ./a.out
+ 1492  gcc 5ld_statistics.c
+ 1493  ./a.out
+ 1494  gcc 5ld_statistics.c
+ 1495  ./a.out
+ 1496  gcc 5ld_statistics.c
+ 1497  ./a.out
+ 1498  gcc 5ld_statistics.c
+ 1499  ./a.out
+ 1500  gcc 5ld_statistics.c
+ 1501  ./a.out
+ 1502  gcc 5ld_statistics.c
+ 1503  ./a.out
+ 1504  gcc 5ld_statistics.c
+ 1505  ./a.out
+ 1506  gcc 5ld_statistics.c
+ 1507  ./a.out
+ 1508  gcc 5ld_statistics.c
+ 1509  ./a.out
+ 1510  gcc 5ld_statistics.c
+ 1511  ./a.out
+ 1512  gcc 5ld_statistics.c
+ 1513  ./a.out
+ 1514  gcc 5ld_statistics.c
+ 1515  ./a.out
+ 1516  gcc 5ld_statistics.c
+ 1517  ./a.out
+ 1518  gcc 5ld_statistics.c
+ 1519  ./a.out
+ 1520  gcc 5ld_statistics.c
+ 1521  ./a.out
+ 1522  gcc 5ld_statistics.c
+ 1523  ./a.out
+ 1524  gcc 5ld_statistics.c
+ 1525  ./a.out
+ 1526  gcc 5ld_statistics.c
+ 1527  ./a.out
+ 1528  gcc 5ld_statistics.c
+ 1529  ./a.out
+ 1530  gcc 5ld_statistics.c
+ 1531  ./a.out
+ 1532  gcc 5ld_statistics.c
+ 1533  ./a.out
+ 1534  gcc 5ld_statistics.c
+ 1535  ./a.out
+ 1536  gcc 5ld_statistics.c
+ 1537  ./a.out
+ 1538  gcc 5ld_statistics.c
+ 1539  ./a.out
+ 1540  gcc 5ld_statistics.c
+ 1541  ./a.out
+ 1542  gcc 5ld_statistics.c
+ 1543  ./a.out
+ 1544  gcc 5ld_statistics.c
+ 1545  ./a.outeeddffggghhhn
+ 1546  gcc 5ld_statistics.c
+ 1547  ./a.outeeddffggghhhn
+ 1548  ./a.out
+ 1549  gcc 5ld_statistics.c
+ 1550  ./a.out
+ 1551  chmod 766 5ld_statistics.gp
+ 1552  5ld_statistics.gp
+ 1553  ./5ld_statistics.gp
+ 1554  gcc 5ld_statistics.c
+ 1555  ./a.out
+ 1556  gcc 5ld_statistics.c
+ 1557  ggggg
+ 1558  gcc 5ld_statistics.c
+ 1559  ./a.out
+ 1560  gcc 5ld_statistics.c
+ 1561  ./a.out
+ 1562  gcc 5ld_statistics.c
+ 1563  ./a.out
+ 1564  gcc 5ld_statistics.c
+ 1565  ./a.out
+ 1566  gcc 5ld_statistics.c
+ 1567  ./a.out
+ 1568  gcc 5ld_statistics.c
+ 1569  ./a.out
+ 1570  gcc 5ld_statistics.c
+ 1571  ./a.out
+ 1572  gcc 5ld_statistics.c
+ 1573  ./a.out
+ 1574  gcc 5ld_statistics.c
+ 1575  ./a.out
+ 1576  qwertyuiopasdfghjklh
+ 1577  ./a.out
+ 1578  gcc 5ld_statistics.c
+ 1579  ./a.out
+ 1580  gcc 5ld_statistics.c
+ 1581  ./a.out
+ 1582  gcc 5ld_statistics.c
+ 1583  ./a.out
+ 1584  gcc 5ld_statistics.c
+ 1585  ./a.out
+ 1586  ./5ld_statistics.gp
+ 1587  gcc 5ld_statistics.c
+ 1588  ./a.out
+ 1589  ./5ld_statistics.gp
+ 1590  ./a.out
+ 1591  gcc 5ld_statistics.c
+ 1592  ./a.out
+ 1593  ./5ld_statistics.gp
+ 1594  ./a.out
+ 1595  "Bubble sort" ir skaitļu kopas kārtošanas algoritms.
+ 1596  ./a.out
+ 1597  aaaaab
+ 1598  ./a.out
+ 1599  aaaaabc
+ 1600  ./a.out
+ 1601  gcc 5ld_statistics.c
+ 1602  ./a.out
+ 1603  gcc 5ld_statistics.c
+ 1604  ./a.out
+ 1605  abbbccc
+ 1606  ./a.out
+ 1607  gcc 5ld_statistics.c
+ 1608  ./a.out
+ 1609  gcc 5ld_statistics.c
+ 1610  ./a.out
+ 1611  gcc 5ld_statistics.c
+ 1612  ./a.out
+ 1613  "Bubble sort" ir skaitļu kopas kārtošanas algoritms.
+ 1614  ./a.out

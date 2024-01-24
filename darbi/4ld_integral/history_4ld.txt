@@ -1,0 +1,40 @@
+cd ../4ld_integral
+ 1214  gcc 4ld_integral.c -lm
+ 1215  ./a.out
+ 1216  gcc 4ld_integral.c -lm
+ 1217  ./a.out
+ 1218  gcc 4ld_integral.c -lm
+ 1219  ./a.out
+ 1220  gcc 4ld_integral.c -lm
+ 1221  ./a.out
+ 1222  gcc 4ld_integral.c -lm
+ 1223  ./a.out
+ 1224  gcc 4ld_integral.c -lm
+ 1225  ./a.out
+ 1226  gcc 4ld_integral.c -lm
+ 1227  ./a.out
+ 1228  gcc 4ld_integral.c -lm
+ 1229  ./a.out
+ 1230  gcc 4ld_integral.c -lm
+ 1231  ./a.out
+ 1232  gcc 4ld_integral.c -lm
+ 1233  ./a.out
+ 1234  gcc 4ld_integral.c -lm
+ 1235  ./a.out
+ 1236  gcc 4ld_integral.c -lm
+ 1237  ./a.out
+ 1238  gcc 4ld_integral.c -lm
+ 1239  ./a.out
+ 1240  gcc 4ld_integral.c -lm
+ 1241  ./a.out
+ 1242  gcc 4ld_integral.c -lm
+ 1243  ./a.out
+ 1244  gcc 4ld_integral.c -lm
+ 1245  ./a.out
+ 1246  chmod 766 4ld_grafiks.gp
+ 1247  ./4ld_grafiks.gp
+ cd ../4ld_integral
+ 1616  gcc 4ld_integral.c -lm
+ 1617  ./a.out
+ 1618  cd ../../
+ 1619  cd ../

@@ -1,0 +1,43 @@
+cd ./darbi/1ld_series
+ 1046  ls
+ 1047  gcc 1ld_series.c -lm
+ 1048  ./a.out
+ 1049  gcc 1ld_series.c -lm
+ 1050  ./a.out
+ 1051  gcc 1ld_series.c -lm
+ 1052  ./a.out
+ 1053  gcc 1ld_series.c -lm
+ 1054  ./a.out
+ 1055  gcc 1ld_series.c -lm
+ 1056  ./a.out
+ 1057  gcc 1ld_series.c -lm
+ 1058  ./a.out
+ 1059  gcc 1ld_series.c -lm
+ 1060  ./a.out
+ 1061  gcc 1ld_series.c -lm
+ 1062  ./a.out
+ 1063  gcc 1ld_series.c -lm
+ 1064  ./a.out
+ 1065  gcc 1ld_series.c -lm
+ 1066  ./a.out
+ 1067  gcc 1ld_series.c -lm
+ 1068  ./a.out
+ 1069  gcc 1ld_series.c -lm
+ 1070  ./a.out
+ 1071  gcc 1ld_series.c -lm
+ 1072  ./a.out
+ 1073  7000
+ 1074  ./a.out
+ 1075  gcc 1ld_series.c -lm
+ 1076  ./a.out
+ 1077  -4
+ 1078  ./a.out
+ 1079  -10
+ 1080  ./a.out
+ 1081  -10
+ 1082  gcc 1ld_series.c -lm
+ 1083  ./a.out
+ 1084  gcc 1ld_series.c -lm
+ 1085  ./a.out
+ 1086  grafiks.gp
+ 1087  ./grafiks.gp

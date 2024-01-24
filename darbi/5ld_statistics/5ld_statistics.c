@@ -6,8 +6,10 @@ int main(void)
     int i,k,max,max2;
     int n1=200,n2;
     char p;
+
     FILE *pFile;
     char * teikums;
+
     teikums = (char*) malloc ((n1) * sizeof(char));
     if (teikums==NULL) exit (1);
     for(i=0;i<=n1;i++) {teikums[i]=0;}
@@ -19,7 +21,7 @@ int main(void)
     printf("Teikums: ");
     puts(teikums);    
     
-
+    /*1.*/
     for(i=0;i<=n1;i++)//nosaka kuri no simboliem ir burti
     {
         if(teikums[i]>=65 && teikums[i]<=90){}
@@ -30,16 +32,18 @@ int main(void)
         }
         
     }
+    /*2.*/
     for(i=0,n2=0;i<=n1;i++)//nosaka cik simboli ir burti
     {
       if(teikums[i]!=0){n2++;}
     }
     n2--;
+    /*3.*/
     char * burti; //izveido tik garu masīvu, cik burtu iepriekšējā masīvā
     burti = (char*) malloc ((n2) * sizeof(char));
     if (burti==NULL) exit (1);
     for(i=0;i<=n2;i++) {burti[i]=0;}
-
+    /*4.*/
     for(i=0,k=0;i<=n1;i++)//pārraksta burtus jaunā masīvā
     {
         if(teikums[i]!=0)
@@ -49,7 +53,7 @@ int main(void)
         }
     }
     free(teikums);
-    
+    /*5.*/
     do //sakaārto burtus augošā secībā pēc ASCII skaitļiem
     {
         k=0;
@@ -65,7 +69,7 @@ int main(void)
         }
     }
     while(k>0);
-
+    /*6.*/
     printf("\t\t\t||  ASCII simbols  |  ASCII skaitlis  |\n");
     printf("________________________||_________________|__________________|\n");
     printf("Minimālā vērtība\t||\t%c\t   |\t%i\t      |\n",burti[0],burti[0]);
@@ -83,6 +87,7 @@ int main(void)
 
     printf("_______________________________________________________________\n");
     //modas noteikšana
+    /*7.*/
    for(i=0,max=0;i<=n2-1;i++)//nosaka maksimālo atkārtošanās skaitu
     {
        for(k=i+1,p=0;k<=n2;k++)
@@ -92,7 +97,7 @@ int main(void)
        if(p>max){max=p;}
        
     }
-
+    /*8.*/
     for(i=0,max2=0,p=0;i<=n2-1;i++)//pārbauda vai visi simboli neatkārtojas ar vienādu reižu skaitu
     {
        for(k=i+1,p=0;k<=n2;k++)
@@ -102,6 +107,7 @@ int main(void)
        if(p!=max){max2++;}
        i=i+p;
     }
+    if(max!=0 && burti[n2-1]!=burti[n2]){max2++;}
     if (max2==0){printf("Modas nav.\n");}
     else
     {
@@ -116,12 +122,14 @@ int main(void)
        
         }   
     }
+    /*9.*/
     printf("\nSakārtota ASCII sinbolu rinda: ");
     for(i=0;i<=n2;i++) {printf("%c, ",burti[i]);}
     printf("\nSakārtota ASCII skaitļu rinda: ");
     for(i=0;i<=n2;i++) {printf("%i, ",burti[i]);}
     printf("\n");
 
+    /*10.*/
     pFile = fopen("statistics.dat", "w");
     for(i=0,max2=0,p=0;i<=n2-1;i++)
         {
@@ -132,7 +140,7 @@ int main(void)
         fprintf(pFile, "%c\t%i\n",burti[i],p+1);
         i=i+p;
     }
-    pFile = fopen("statistics.dat", "w");
+    
      
     fclose(pFile);
     free(burti);

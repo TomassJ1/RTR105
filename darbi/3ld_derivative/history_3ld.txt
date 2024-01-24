@@ -1,0 +1,66 @@
+cd ../3ld_derivative.c
+ 1148  cd ../3ld_derivative
+ 1149  gcc 3ld_derivative.c -lm
+ 1150  ./a.out
+ 1151  gcc 3ld_derivative.c -lm
+ 1152  ./a.out
+ 1153  gcc 3ld_derivative.c -lm
+ 1154  ./a.out
+ 1155  gcc 3ld_derivative.c -lm
+ 1156  ./a.out
+ 1157  gcc 3ld_derivative.c -lm
+ 1158  ./a.out
+ 1159  gcc 3ld_derivative.c -lm
+ 1160  ./a.out
+ 1161  gcc 3ld_derivative.c -lm
+ 1162  ./a.out
+ 1163  gcc 3ld_derivative.c -lm
+ 1164  ./a.out
+ 1165  gcc 3ld_derivative.c -lm
+ 1166  ./a.out
+ 1167  gcc 3ld_derivative.c -lm
+ 1168  ./a.out
+ 1169  gcc 3ld_derivative.c -lm
+ 1170  ./a.out
+ 1171  gcc 3ld_derivative.c -lm
+ 1172  ./a.out
+ 1173  gcc 3ld_derivative.c -lm
+ 1174  ./a.out
+ 1175  gcc 3ld_derivative.c -lm
+ 1176  ./a.out
+ 1177  gcc 3ld_derivative.c -lm
+ 1178  ./a.out
+ 1179  gcc 3ld_derivative.c -lm
+ 1180  ./a.out
+ 1181  gcc 3ld_derivative.c -lm
+ 1182  ./a.out
+ 1183  gcc 3ld_derivative.c -lm
+ 1184  ./a.out
+ 1185  gcc 3ld_derivative.c -lm
+ 1186  ./a.out
+ 1187  gcc 3ld_derivative.c -lm
+ 1188  ./a.out
+ 1189  ./3ld_derivative.gp
+ 1190  chmod 766 3ld_derivative.gp
+ 1191  ./3ld_derivative.gp
+ 1192  ./a.out
+ 1193  ./3ld_derivative.gp
+ 1194  ./a.out
+ 1195  gcc 3ld_derivative.c -lm
+ 1196  ./a.out
+ 1197  gcc 3ld_derivative.c -lm
+ 1198  ./a.out
+ 1199  gcc 3ld_derivative.c -lm
+ 1200  ./a.out
+ 1201  gcc 3ld_derivative.c -lm
+ 1202  ./a.out
+ 1203  ./3ld_derivative.gp
+ 1204  ./a.out
+ 1205  ./3ld_derivative.gp
+ 1206  ./a.out
+ 1207  ./3ld_derivative.gp
+ 1208  ./a.out
+ 1209  ./3ld_derivative.gp
+ 1210  mv ./derivative.png ./derivative_delta_x=0.01.png
+ 1211  ./a.out
+ 1212  ./3ld_derivative.gp
